@@ -24,11 +24,6 @@ public class program {
 	
 	
 	
-	
-	
-	
-	
-	
 	sc.close();
 
 	}
