@@ -12,7 +12,7 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
-		System.out.printf("quantos números irá digitar ?: ");
+		System.out.printf("quantos números irá digitar ??: ");
 		int n = sc.nextInt();
 		
 		Product[] vect = new Product[n];
